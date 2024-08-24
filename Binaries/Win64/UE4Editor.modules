@@ -1,0 +1,35 @@
+{
+	"BuildId": "17155196",
+	"Modules": 
+	{
+		"BF_AI": "UE4Editor-BF_AI.dll",
+		"BF_Analytics": "UE4Editor-BF_Analytics.dll",
+		"BF_Animations": "UE4Editor-BF_Animations.dll",
+		"BF_Audio": "UE4Editor-BF_Audio.dll",
+		"BF_AudioBase": "UE4Editor-BF_AudioBase.dll",
+		"BF_Covers": "UE4Editor-BF_Covers.dll",
+		"BF_Debug": "UE4Editor-BF_Debug.dll",
+		"BF_FrameworkBase": "UE4Editor-BF_FrameworkBase.dll",
+		"BF_FrameworkGame": "UE4Editor-BF_FrameworkGame.dll",
+		"BF_GUI": "UE4Editor-BF_GUI.dll",
+		"BF_GUIBase": "UE4Editor-BF_GUIBase.dll",
+		"BF_Impacts": "UE4Editor-BF_Impacts.dll",
+		"BF_Input": "UE4Editor-BF_Input.dll",
+		"BF_LevelGenerator": "UE4Editor-BF_LevelGenerator.dll",
+		"BF_Loading": "UE4Editor-BF_Loading.dll",
+		"BF_Navigation": "UE4Editor-BF_Navigation.dll",
+		"BF_Network": "UE4Editor-BF_Network.dll",
+		"BF_Pool": "UE4Editor-BF_Pool.dll",
+		"BF_Props": "UE4Editor-BF_Props.dll",
+		"BF_Rendering": "UE4Editor-BF_Rendering.dll",
+		"BF_RideableVehicles": "UE4Editor-BF_RideableVehicles.dll",
+		"BF_Settings": "UE4Editor-BF_Settings.dll",
+		"BF_Voiceover": "UE4Editor-BF_Voiceover.dll",
+		"Common_Data": "UE4Editor-Common_Data.dll",
+		"Common_Save": "UE4Editor-Common_Save.dll",
+		"Common_Utils": "UE4Editor-Common_Utils.dll",
+		"CrimeBossMeta": "UE4Editor-CrimeBossMeta.dll",
+		"Payback": "UE4Editor-Payback.dll",
+		"PaybackDefinitions": "UE4Editor-PaybackDefinitions.dll"
+	}
+}
